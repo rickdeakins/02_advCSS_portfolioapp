@@ -56,6 +56,7 @@ nav a {
   /*background-color: rgb(248, 251, 251);*/
   min-width: 0px;
 }
+
 .main-container{
   display: flex;
   flex-wrap: wrap;
@@ -74,13 +75,12 @@ nav a {
   margin: 4px;
   align-items: stretch;
   min-width: none;
-
 }
 
 .aboutcontainer{
   margin: 10px;;
   background-color: rgb(248, 251, 251);
-  
+
 }
 
 .footer{
